@@ -1,6 +1,6 @@
 # 📘 CrediKhaata – Loan Ledger UI for Shopkeepers
 
-**CrediKhaata** is a fully responsive, production-grade React.js web application built to help small shopkeepers manage credit transactions (loans, repayments, and balances) with customers. Designed with simplicity and real-world usability in mind, it offers a modern, intuitive interface optimized for daily business use.
+**CrediKhaata** is a fully responsive, production-ready web application built using React.js, designed specifically to help small shopkeepers and local vendors efficiently manage credit transactions with their customers. From tracking loans and repayments to maintaining real-time customer balances, CrediKhaata simplifies day-to-day financial operations with an intuitive and clean interface.
 
 ---
 

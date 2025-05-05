@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Smooth transitions globally */
+body {
+  transition: background-color 0.5s ease, color 0.5s ease;
+  cursor: url('https://cur.cursors-4u.net/symbols/sym-4/sym358.ani'), auto;
+}
+
+* {
+  transition: all 0.3s ease-in-out;
+}
+
+/* Additional Animations */
+@layer utilities {
+  .animate-fadeIn {
+    animation: fadeIn 1.5s ease-in forwards;
+  }
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
